@@ -105,11 +105,11 @@ const config: Config = {
           items: [
             {
               label: 'Claims',
-              to: '/claims/intro'
+              to: '/claims'
             },
             {
               label: 'Housing',
-              to: '/housing/intro'
+              to: '/housing'
             }
           ]
         }
