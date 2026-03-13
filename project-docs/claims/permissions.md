@@ -1,3 +1,9 @@
+---
+id: permissions
+title: Permissions
+slug: /permissions
+---
+# Permission Nodes
 | Permission Node        | Default | Op Default | Description                            |
 |:-----------------------|:-------:|:----------:|:---------------------------------------|
 | claims.amount.[number] |   1*    |     ✅      | How many claims a user can have        |
